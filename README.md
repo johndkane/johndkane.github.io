@@ -1,5 +1,5 @@
 ---
-title: johndkane github pages
+title: johndkane
 ---
 
 .
